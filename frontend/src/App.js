@@ -1,25 +1,37 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+// import { useState } from 'react';
+import './global.css';
 
+// Um componente é uma função que retorna html;
+// jsx - é o html integrado dentro do Javascript;
+
+//import Header from './Header';
+import Routes from './routes';
+/*
 function App() {
+  const [counter, setCounter] = useState(0);
+
+  // Quando usamos a função useState, esta retorna um
+  // Array [valor, funcaoDeAtualizacao]
+
+  function increment(){
+    setCounter(counter + 1);
+    //console.log(counter);
+  }
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    // Como o componente Header não tem nenhum contéudo nele
+    // podemos fechar a tag nela mesma. Exemplo: <Header />
+    <div>
+      <Header>Contador: { counter } </Header>
+      <button onClick= { increment } >Incrementar</button>
     </div>
+  );
+}
+*/
+function App(){
+  return (
+    <Routes />
   );
 }
 
