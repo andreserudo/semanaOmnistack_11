@@ -1,7 +1,6 @@
 # <div align="center">Semana Omnistack 11</div>  
 <div align="center">Projeto Be The Hero desenvolvido para a Semana Omnistack 11.</div>  
 </p>
-<div align="center"> Tecnologias | O projeto | Licença </div>
 </p>
 <h2> Tecnologias </h2>
 </p>
