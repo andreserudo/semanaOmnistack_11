@@ -20,7 +20,7 @@ A idéia é reunir demandas de contribuições a ONGs.
 <li>Acompanhe o que foi desenvolvido para a versão mobile na pasta mobile</li>
 </ul>
 <h2> Licença </h2>
-Veja a licença aqui.
+Veja a licença <a href="https://github.com/andreserudo/semanaOmnistack_11/blob/master/LICENSE">aqui.
 <h3> Rocketseat </h3>
 Grato pela oportunidade de ter feito parte das aulas dessa semana.</p> 
 Conheça o trabalho da <a href="https://rocketseat.com.br/">RocketSeat</a>
